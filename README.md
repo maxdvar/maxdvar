@@ -2,6 +2,8 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador Full Stack con un amor por la tecnología, el diseño y la resolución de problemas. Aquí encontrarás una muestra de mis proyectos y contribuciones en el mundo del desarrollo web.
 
+![Imagen](/Diseño%201.png)
+
 ## Sobre mí
 
 - 👨‍💻 Actualmente enfocado en el desarrollo Full Stack con énfasis en JavaScript, ReactJS y NodeJS.
@@ -16,7 +18,7 @@
 
 ## Proyectos Destacados
 
-- 🚀 [Mercadillo Cívico](https://mer-civ.onrender.com/):  Formé parte del equipo de desarrollo Front-End de la aplicación, una plataforma tanto para dispositivos móviles como de escritorio que ofrece una experiencia de compra única. Utilizando tecnologías como React, Redux Toolkit, Material UI y Tailwind CSS en el frontend, y Express, Prisma y JWT en el backend, creamos una aplicación con tres roles definidos: Usuario, Proveedor y Administrador. Cada uno cuenta con sus respectivas autenticaciones y autorizaciones para garantizar un entorno seguro. Implementamos prácticas de CI/CD con Render para despliegues eficientes y nos aseguramos de mantener un código limpio y mantenible con herramientas como Husky, Lint-staged, ESLint y Prettier.
+- 🚀 [Mercadillo Cívico](https://mer-civ.onrender.com/): Formé parte del equipo de desarrollo Front-End de la aplicación, una plataforma tanto para dispositivos móviles como de escritorio que ofrece una experiencia de compra única. Utilizando tecnologías como React, Redux Toolkit, Material UI y Tailwind CSS en el frontend, y Express, Prisma y JWT en el backend, creamos una aplicación con tres roles definidos: Usuario, Proveedor y Administrador. Cada uno cuenta con sus respectivas autenticaciones y autorizaciones para garantizar un entorno seguro. Implementamos prácticas de CI/CD con Render para despliegues eficientes y nos aseguramos de mantener un código limpio y mantenible con herramientas como Husky, Lint-staged, ESLint y Prettier.
 
 ## Contacto
 
