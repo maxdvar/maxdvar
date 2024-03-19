@@ -16,10 +16,10 @@
 
 ## Proyectos Destacados
 
-- 🚀 [Mercadillo Cívico](https://mer-civ.onrender.com/): Formé parte del equipo de desarrollo Front-End de la aplicación, una plataforma tanto para dispositivos móviles como de escritorio que ofrece una experiencia de compra única. Utilizando tecnologías como React, Redux Toolkit, Material UI y Tailwind CSS en el frontend, y Express, Prisma y JWT en el backend, creamos una aplicación con tres roles definidos: Usuario, Proveedor y Administrador. Cada uno cuenta con sus respectivas autenticaciones y autorizaciones para garantizar un entorno seguro. Implementamos prácticas de CI/CD con Render para despliegues eficientes y nos aseguramos de mantener un código limpio y mantenible con herramientas como Husky, Lint-staged, ESLint y Prettier.
+- 🚀 [Mercadillo Cívico](https://mer-civ.onrender.com/):  Formé parte del equipo de desarrollo Front-End de la aplicación, una plataforma tanto para dispositivos móviles como de escritorio que ofrece una experiencia de compra única. Utilizando tecnologías como React, Redux Toolkit, Material UI y Tailwind CSS en el frontend, y Express, Prisma y JWT en el backend, creamos una aplicación con tres roles definidos: Usuario, Proveedor y Administrador. Cada uno cuenta con sus respectivas autenticaciones y autorizaciones para garantizar un entorno seguro. Implementamos prácticas de CI/CD con Render para despliegues eficientes y nos aseguramos de mantener un código limpio y mantenible con herramientas como Husky, Lint-staged, ESLint y Prettier.
 
 ## Contacto
 
-¡Me encantaría conectar contigo! No dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/maximo-varela/) o a través de mi correo electrónico (maxivarela95 [at] gmail [dot] com) para discutir colaboraciones, proyectos o simplemente charlar sobre tecnología y desarrollo web.
+¡Me encantaría conectar contigo! No dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/maximo-varela/) o a través de mi correo electrónico maxivarela95@gmail.com para discutir colaboraciones, proyectos o simplemente charlar sobre tecnología y desarrollo web.
 
 ¡Gracias por visitar mi perfil! Espero que encuentres mis proyectos interesantes y útiles. 😊
