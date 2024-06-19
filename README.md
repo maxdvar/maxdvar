@@ -27,6 +27,7 @@ Aquí están algunas de las tecnologías con las que trabajo:
 ### Lenguajes de Programación
 
 - JavaScript
+- TypeScript
 
 ### Frontend
 
@@ -46,6 +47,7 @@ Aquí están algunas de las tecnologías con las que trabajo:
 - PostgreSQL
 - Sequelize
 - Prisma
+- MongoDB
 
 ### Otras
 
