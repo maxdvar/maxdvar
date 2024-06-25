@@ -41,6 +41,7 @@ Aquí están algunas de las tecnologías con las que trabajo:
 
 - Node.js
 - Express
+- Nest.js
 
 ### Base de Datos
 
