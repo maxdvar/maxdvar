@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador Full Stack con un amor por la tecnología, el diseño y la resolución de problemas. Aquí encontrarás una muestra de mis proyectos y contribuciones en el mundo del desarrollo web.
 
-![Imagen](/Diseño%201.png)
+![Imagen](/image.png)
 
 ## Sobre mí
 
@@ -58,7 +58,6 @@ Aquí están algunas de las tecnologías con las que trabajo:
 - CSS modules
 - Jest (TESTING)
 - Supertest
-
 
 ## Contacto
 
